@@ -83,9 +83,9 @@ Visit pur GitHubs:
 
 ## Questions
 
-If you have any additional questions not answered here or wish to contact me regarding developments, please email us at 
+If you have any additional questions not answered here or wish to contact us regarding developments, please email us at 
 [melissabcadena@gmail.com](mailto:melissabcadena@gmail.com),
 [davidbelleza@gmail.com](mailto:davidbelleza@gmail.com),
 [cheriecookson@gmail.com ](mailto:cheriecookson@gmail.com ),
-[sylviaprabudy@gmail.com](mailto:sylviaprabudy@gmail.com)
+[sylviaprabudy@gmail.com](mailto:sylviaprabudy@gmail.com),
 [osadenaike@gmail.com](mailto:osadenaike@gmail.com)
