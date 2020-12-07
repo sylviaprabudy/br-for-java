@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-A coffee shop platform where users can order menu items by adding items to their cart, modify orders, and also purchase the items using credit/debit card through our safe and protected platform.
+A coffee shop platform where users can order menu items by adding items to their cart, modify orders, and also purchase the items using credit/debit card through our safe and protected platform. Orders will be automatically saved in their profile.
 
 ## Table of Contents
 * [Installation](#installation)
