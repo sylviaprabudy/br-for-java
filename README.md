@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-A coffee shop platform where users can order menu items by adding items to their cart, modify orders, and also purchase the items using credit/ debit card through our safe and protected platform.
+A coffee shop platform where users can order menu items by adding items to their cart, modify orders, and also purchase the items using credit/debit card through our safe and protected platform.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,11 +13,9 @@ A coffee shop platform where users can order menu items by adding items to their
 * [Questions](#questions) 
    
 ## Installation
-
 npm install in the root of the repository, then npm start
 
 ## Usage  
-
 You can access from your _favorite browser on your **computer, ipad, or mobile phone**_.
 Users can view menu options on menu page.
 Users can add menu items to cart, modify contents of item.
